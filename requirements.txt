@@ -1,11 +1,9 @@
 streamlit
 pandas
 numpy
-plotly
 yfinance
+plotly
+matplotlib
 statsmodels
 scikit-learn
-pmdarima
-matplotlib
 openpyxl
-xlsxwriter
