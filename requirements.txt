@@ -2,6 +2,10 @@ streamlit
 pandas
 numpy
 plotly
+yfinance
 statsmodels
+scikit-learn
+pmdarima
+matplotlib
 openpyxl
-xlrd
+xlsxwriter
